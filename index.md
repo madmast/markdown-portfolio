@@ -1,7 +1,10 @@
-People I had loved 
-* D
-* e
-* e
-* p
-* t
-* i
+## Books I read to love
+The List is as follows:
+* Fiction
+    * ABC
+    * DEF
+ * Non-Fiction
+    * GHI
+    * JKL
+    * MNO
+ 
