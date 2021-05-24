@@ -7,4 +7,3 @@ The List is as follows:
     - GHI
     - JKL
     - MNO
- 
