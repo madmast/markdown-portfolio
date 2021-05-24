@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My Text of Image](http://www.reportingday.com/wp-content/uploads/2018/06/Peacock.jpg)
