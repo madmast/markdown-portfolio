@@ -1,12 +1,7 @@
-1. D
-      1. D
-      2. E
-      3. E
-      4. E
-      5. P
-      6. I
-3. E
-4. E
-5. P
-6. T
-7. I
+People I had loved 
+* D
+* e
+* e
+* p
+* t
+* i
