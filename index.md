@@ -1,21 +1,12 @@
----
-layout: default
----
-
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
-<br>
-
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}
+1. D
+      1. D
+      2. E
+      3. E
+      4. E
+      5. P
+      6. I
+3. E
+4. E
+5. P
+6. T
+7. I
